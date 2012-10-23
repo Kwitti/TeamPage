@@ -1,0 +1,9 @@
+name: TeamPage
+version: 1.0
+author: TheHarofreak
+main: de.theharofreak.teampage.TeamPage
+
+commands:
+  team:
+    usage: /<command>
+    permissions: TeamPage.Use
